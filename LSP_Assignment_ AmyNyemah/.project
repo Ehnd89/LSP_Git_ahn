@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/org/howard/edu/lsp/midterm/exam/MidtermAN.docx</name>
+			<type>1</type>
+			<location>/Users/amynye/Documents/MidtermAN.docx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
